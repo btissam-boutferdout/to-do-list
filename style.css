@@ -1,0 +1,20 @@
+.para-para {
+  background-color: blue;
+  margin: 20px;
+  padding: 20px;
+  font-size: medium;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  box-shadow: 10px 10px 10px gray;
+}
+#father-div {
+  width: 500px;
+  box-shadow: 10px 10px 10px gray;
+  background-color: lightblue;
+}
+#father-father-div {
+  display: flex;
+  justify-content: center;
+}
